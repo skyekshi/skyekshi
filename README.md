@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @skyekshi
 - 👀 I’m interested in dancing, sleeping, eating
-- 🌱 I’m currently learning CS61B
+- 🌱 I’m currently learning numerical analysis and data structures
 - 💞️ I’m looking to collaborate on anything!
 - 📫 How to reach me - skyekshi@connect.hku.hk, welcome!
 
