@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @skyekshi
-- 👀 I’m interested in dancing, sleeping, eating
-- 🌱 I’m currently learning numerical analysis and data structures
+- 👀 I’m interested in reading detective stories
+- 🌱 I’m currently learning machine learning
 - 💞️ I’m looking to collaborate on anything!
-- 📫 How to reach me - skyekshi@connect.hku.hk, welcome!
+- 📫 How to reach me - skyekshi@gmail, welcome!
 
 <!---
 skyekshi/skyekshi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
